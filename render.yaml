@@ -14,7 +14,7 @@ services:
       - key: DB_CONNECTION
         value: mysql
       - key: DB_HOST
-        value: your-mysql-host
+        value: cdio4.internal
       - key: DB_PORT
         value: 3306
       - key: DB_DATABASE
