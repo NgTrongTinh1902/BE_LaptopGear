@@ -1,0 +1,100 @@
+[33mf2c0e3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #4 from thanhdac/revert-3-main
+[33maaf7f77[m[33m ([m[1;31morigin/revert-3-main[m[33m)[m Revert "Main"
+[33m6db3261[m Merge pull request #3 from thanhdac/main
+[33m148b4c3[m[33m ([m[1;31morigin/main[m[33m)[m Merge pull request #1 from thanhdac/dat-update-BE
+[33m15f3f1e[m[33m ([m[1;31morigin/dat-update-BE[m[33m)[m Merge branch 'main' into dat-update-BE
+[33mc2a5e07[m Merge pull request #2 from thanhdac/Tinh-update-be
+[33mfcf0339[m[33m ([m[1;31morigin/Tinh-update-be[m[33m)[m Tinh BE
+[33m10efa87[m dat update BE
+[33m2380c55[m hello
+[33maf30bbb[m tdatt
+[33m62f3107[m tdat276
+[33mf8d9c0d[m tdat_seeder
+[33m8619445[m create_seeder
+[33ma7a1634[m be_trongtinh
+[33m5860da5[m sêd
+[33mb273827[m fix
+[33ma75714a[m x
+[33mfaa237e[m k21
+[33m2b98a21[m seed don_hang
+[33mee1694c[m Merge pull request #30 from DZFullStackCompany/truc134
+[33m93d0c4d[m view_don_hang
+[33m4a3343c[m Merge pull request #29 from DZFullStackCompany/1104
+[33mc2904f5[m x
+[33m6d998ae[m Merge pull request #28 from DZFullStackCompany/truc942
+[33mdb5759a[m fix
+[33m3514c32[m Merge pull request #27 from DZFullStackCompany/truc942
+[33m00dc595[m fix seeder
+[33md775a01[m fix all
+[33m480f599[m Merge branch 'master' of https://github.com/DZFullStackCompany/BE_KHOA_21
+[33mbcf244c[m fix_0504
+[33mbf1a4ec[m fix seed
+[33m10367de[m fix
+[33m2bed7ef[m x
+[33ma226fdf[m fix444
+[33me913c41[m fix
+[33ma1375b0[m fix_0404
+[33mc38082e[m fix 44
+[33m8825dff[m fix 44
+[33m66f346f[m Merge pull request #26 from DZFullStackCompany/be0304
+[33m0e04784[m fixbe0304
+[33m10b5307[m 03/04
+[33m6b8f6aa[m update_1
+[33m2111e05[m update
+[33m03ec49e[m fix
+[33me1368c4[m fix
+[33ma81793b[m fix
+[33mfb4545f[m Merge pull request #24 from DZFullStackCompany/Tuyen02042025
+[33maf43add[m updateDiaChi
+[33mefd999f[m Merge pull request #23 from DZFullStackCompany/Tuyen01042025
+[33m3119594[m ThemMoiDiaChi
+[33m6003208[m Merge pull request #22 from DZFullStackCompany/msonNew
+[33md6a199d[m fix
+[33m0d208f0[m Merge pull request #19 from DZFullStackCompany/lanh_28_3
+[33maa97f43[m Merge branch 'master' into lanh_28_3
+[33m280feee[m Merge pull request #18 from DZFullStackCompany/Tuyen28032025
+[33mc5df345[m shipper and chucVu
+[33m1543d61[m ActorKhachHang
+[33mdaaccaf[m ADD SEED CHI TIET DIA CHI
+[33mcd8e559[m add seed don hang
+[33m976c98e[m add chitiet_diachi
+[33m7cafd7c[m add middleware
+[33m91fd5dc[m Merge pull request #15 from DZFullStackCompany/Tuyen26032025
+[33m65909b1[m TinhThanh_QuanHuyen_NhanVien_MonAn
+[33maa80140[m fix
+[33mfb55768[m fix
+[33mfd59bd8[m Merge pull request #14 from DZFullStackCompany/fixquanan
+[33m58292a7[m fix
+[33mcdfaa11[m Merge pull request #13 from DZFullStackCompany/2403
+[33mabba66c[m 2403
+[33m1d8666a[m fix
+[33m988e47d[m add danhmuc vouchers
+[33me0b64b9[m Merge pull request #11 from DZFullStackCompany/tranlanh
+[33m4578142[m check_login
+[33m34a96ad[m add seed
+[33m18ff416[m Update NhanVienSeeder to use plain text passwords instead of hashed passwords for seeding data.
+[33ma7ef77a[m Refactor models and migrations: removed unused fields, added new fields, and updated seeders for better data integrity and structure.
+[33m686183f[m fix reset db
+[33m6b4b37f[m Merge branch 'master' of github.com:DZFullStackCompany/BE_KHOA_21
+[33m8a5cd8f[m reset db khoa21
+[33mf0d67c8[m Merge pull request #3 from DZFullStackCompany/update
+[33m5dcdb26[m Merge branch 'master' into update
+[33m4e14be5[m update
+[33m9bb967d[m doimatkhau
+[33m35ea9d9[m Bổ sung seed DIACHIKH
+[33m97ced68[m Buoi 22 - Tren lop
+[33mc57d6ea[m Update Địa chỉ KH
+[33me9bccaf[m fix
+[33m0640e12[m Merge pull request #2 from DZFullStackCompany/lanh_sp
+[33mcf25ed0[m Merge branch 'master' into lanh_sp
+[33mc9dffa8[m upadte sang
+[33m9636e55[m buoi22
+[33m7735e15[m Buoi 21
+[33m06fb111[m seed
+[33m4dc58e1[m add checklogin
+[33m463b1c3[m Buổi 21
+[33mecb1e86[m fix
+[33mefee457[m Merge pull request #1 from DZFullStackCompany/nhan
+[33m2f869da[m login
+[33m6822382[m fix
+[33m0d0e005[m Init
